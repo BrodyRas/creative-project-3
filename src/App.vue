@@ -4,7 +4,14 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
-    <router-view/>
+    <router-view />
+
+    <a id="footer-link" href="https://github.com/BrodyRas/creative-project-3.git">
+      <div id="footer">
+        <img src="@/assets/images/gitLogo.png" alt="GitHub Logo" />
+        <p>See Source Code</p>
+      </div>
+    </a>
   </div>
 </template>
 
@@ -28,5 +35,34 @@
 
 #nav a.router-link-exact-active {
   color: #42b983;
+}
+
+#footer-link {
+  text-decoration: none;
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#footer:hover {
+  font-size: 1.1em;
+}
+
+#footer:hover img {
+  width: 55px;
+}
+
+#footer img {
+  width: 50px;
+  margin-right: 10px;
+  transition: all 0.3s;
+}
+
+#footer p {
+  font-size: 1em;
+  transition: all 0.3s;
 }
 </style>
