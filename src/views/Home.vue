@@ -1,7 +1,13 @@
 <template>
   <div class="home">
-    <h1>Emotion Logs</h1>
-    <p><i>Used to track how you're feeling throughout the day</i></p>
+    <h1 style="text-align: center">Emotion Logs</h1>
+    <p style="text-align: center"><i>Track your feelings throughout the day</i></p>
+    <p>
+      It is very important to keep track of one's emotional state, especially
+      when trying to discover the root of negative patterns of behavior. Like a
+      detective searching for a motive, you can begin to connect the dots once
+      the evidence is laid before you!
+    </p>
     <div id="log-form">
       <h2>Create a new log!</h2>
       <input type="text" placeholder="Title" v-model="logTitle" /> <br />
@@ -138,6 +144,7 @@ export default {
 #log-form {
   background-color: pink;
   padding: 30px;
+  border: 3px solid rgb(133, 64, 75);
   border-radius: 30px;
 }
 </style>

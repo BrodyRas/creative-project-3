@@ -31,7 +31,7 @@ export default {
 <style scoped>
 .log-card {
   background-color: rgb(243, 227, 227);
-  /* border: 1px solid #f00; */
+  border: 3px solid rgb(129, 57, 69);
   border-radius: 20px;
   padding: 20px;
   margin-top: 10px;

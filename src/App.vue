@@ -21,7 +21,7 @@
 
 <style>
 body{
-  background-color: rgb(241, 245, 248);
+  background-color: rgb(242, 248, 241);
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -42,7 +42,7 @@ body{
 }
 
 #nav a.router-link-exact-active {
-  color: rgb(233, 159, 171);
+  color: Green;
 }
 
 #footer-link {
