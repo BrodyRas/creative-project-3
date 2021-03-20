@@ -20,6 +20,9 @@
 </template>
 
 <style>
+body{
+  background-color: rgb(241, 245, 248);
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -39,7 +42,7 @@
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: rgb(233, 159, 171);
 }
 
 #footer-link {

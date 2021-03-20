@@ -30,7 +30,7 @@ export default {
 
 <style scoped>
 .log-card {
-  background-color: #eee;
+  background-color: rgb(243, 227, 227);
   /* border: 1px solid #f00; */
   border-radius: 20px;
   padding: 20px;
@@ -38,7 +38,7 @@ export default {
 }
 
 .feeling-card {
-  background-color: #fff;
+  background-color: rgb(248, 240, 240);
   border-radius: 10px;
   padding: 10px;
 }
