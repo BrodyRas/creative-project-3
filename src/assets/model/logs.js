@@ -1,216 +1,203 @@
 let logs = [{
         "index": 0,
-        "title": "magna mollit",
-        "body": "Elit magna non voluptate dolor ex culpa elit esse. Laboris magna deserunt exercitation labore labore deserunt ex cupidatat nulla.",
-        "written": "2017-01-06T08:53:31 +07:00",
+        "title": "amet duis",
+        "body": "Anim deserunt eiusmod dolore proident ex mollit adipisicing reprehenderit sint. Nostrud id exercitation duis enim exercitation consectetur reprehenderit officia aliquip.",
+        "written": "Sun Nov 13 2016 07:33:53 GMT-0700 (Mountain Standard Time)",
         "tags": [
-            "happy"
-        ],
-        "favoriteFruit": "apple"
+            "empty",
+            "determined"
+        ]
     },
     {
         "index": 1,
-        "title": "ullamco irure",
-        "body": "Ullamco commodo enim nisi irure aliquip do reprehenderit sint officia. Ad ex esse do adipisicing amet minim enim excepteur aliquip anim sint id.",
-        "written": "2014-05-09T02:13:09 +06:00",
+        "title": "voluptate do",
+        "body": "Dolor sunt proident do voluptate ipsum aute elit. Veniam voluptate sit sint ullamco elit voluptate deserunt.",
+        "written": "Thu May 18 2017 11:06:20 GMT-0600 (Mountain Daylight Time)",
         "tags": [
-            "overwhelmed"
-        ],
-        "favoriteFruit": "apple"
+            "full"
+        ]
     },
     {
         "index": 2,
-        "title": "ea id",
-        "body": "Culpa est ex aute id culpa. Reprehenderit irure anim enim sunt mollit laboris sit sit est consequat sunt pariatur anim.",
-        "written": "2014-08-30T11:47:08 +06:00",
+        "title": "laborum veniam",
+        "body": "Consectetur aute exercitation pariatur consequat quis sit. Sit laboris voluptate exercitation culpa pariatur sit cupidatat sit nulla do.",
+        "written": "Sat Mar 06 2021 08:22:49 GMT-0700 (Mountain Standard Time)",
         "tags": [
-            "sad",
-            "anxious"
-        ],
-        "favoriteFruit": "banana"
+            "empty"
+        ]
     },
     {
         "index": 3,
-        "title": "enim deserunt",
-        "body": "Pariatur Lorem ad in ea. Dolor non id culpa nulla reprehenderit exercitation ad ex occaecat ipsum eu aliqua.",
-        "written": "2015-07-02T04:01:13 +06:00",
+        "title": "laboris eiusmod",
+        "body": "Do magna non deserunt in et qui ipsum nisi cillum. Aliqua irure occaecat aliqua quis ullamco eu aute ut veniam in elit quis adipisicing.",
+        "written": "Sat Jan 12 2019 15:16:17 GMT-0700 (Mountain Standard Time)",
         "tags": [
-            "lethargic",
-            "determined"
-        ],
-        "favoriteFruit": "strawberry"
+            "energetic"
+        ]
     },
     {
         "index": 4,
-        "title": "eu eiusmod",
-        "body": "Laboris velit mollit duis pariatur elit non adipisicing non eu labore. Exercitation incididunt ut ex laboris velit voluptate aliquip pariatur eiusmod reprehenderit irure occaecat aute.",
-        "written": "2017-09-12T09:43:22 +06:00",
+        "title": "eu laboris",
+        "body": "Lorem velit labore non consequat mollit nostrud enim anim anim magna magna ex officia occaecat. Eiusmod do ullamco Lorem pariatur velit nisi exercitation et amet.",
+        "written": "Thu Apr 04 2019 14:03:13 GMT-0600 (Mountain Daylight Time)",
         "tags": [
-            "energetic",
+            "lethargic",
             "determined"
-        ],
-        "favoriteFruit": "apple"
+        ]
     },
     {
         "index": 5,
-        "title": "aliquip do",
-        "body": "Quis et voluptate fugiat excepteur ut. Commodo quis enim incididunt aute.",
-        "written": "2017-07-20T11:20:10 +06:00",
+        "title": "dolor qui",
+        "body": "Eiusmod culpa ipsum quis anim adipisicing fugiat fugiat et anim voluptate ad in incididunt. Officia mollit consequat nisi deserunt excepteur mollit.",
+        "written": "Sun Sep 04 2016 23:54:52 GMT-0600 (Mountain Daylight Time)",
         "tags": [
             "empty",
-            "conflicted"
-        ],
-        "favoriteFruit": "apple"
+            "energetic"
+        ]
     },
     {
         "index": 6,
-        "title": "sit ea",
-        "body": "Et commodo do anim ea in ex sunt fugiat exercitation. Sint amet pariatur id sint ullamco dolor eiusmod Lorem aliquip esse veniam fugiat adipisicing.",
-        "written": "2014-01-23T07:10:58 +07:00",
+        "title": "eu nisi",
+        "body": "Eu culpa culpa ex sit amet labore. Minim voluptate culpa cillum esse pariatur ipsum sunt proident.",
+        "written": "Sat Apr 21 2018 21:30:49 GMT-0600 (Mountain Daylight Time)",
         "tags": [
-            "empty"
-        ],
-        "favoriteFruit": "banana"
+            "empty",
+            "overwhelmed"
+        ]
     },
     {
         "index": 7,
-        "title": "cillum occaecat",
-        "body": "Duis ea ea sit mollit duis Lorem minim nostrud elit ullamco est sunt incididunt. Id occaecat eu est in ullamco nulla minim.",
-        "written": "2014-08-28T04:55:40 +06:00",
+        "title": "et eiusmod",
+        "body": "Labore do est in eiusmod ad duis voluptate consectetur ullamco Lorem. Cillum ullamco nulla qui id mollit excepteur consequat nulla tempor labore.",
+        "written": "Mon Mar 25 2019 18:33:29 GMT-0600 (Mountain Daylight Time)",
         "tags": [
-            "sad",
+            "energetic",
             "conflicted"
-        ],
-        "favoriteFruit": "strawberry"
+        ]
     },
     {
         "index": 8,
-        "title": "irure fugiat",
-        "body": "Amet eiusmod non ad tempor adipisicing ullamco irure. Lorem ad elit sunt excepteur et consequat labore.",
-        "written": "2015-01-20T08:09:18 +07:00",
+        "title": "sint laborum",
+        "body": "Ullamco excepteur cillum amet aute aute aliquip labore dolore minim nostrud elit velit. Lorem ipsum irure voluptate id nulla elit irure est sint sunt reprehenderit.",
+        "written": "Wed Aug 08 2018 15:22:08 GMT-0600 (Mountain Daylight Time)",
         "tags": [
-            "conflicted",
-            "overwhelmed"
-        ],
-        "favoriteFruit": "apple"
+            "determined"
+        ]
     },
     {
         "index": 9,
-        "title": "velit cillum",
-        "body": "Aliquip dolore eiusmod veniam esse laboris velit ad. Deserunt ut in quis ea incididunt quis duis sint.",
-        "written": "2016-10-13T08:41:16 +06:00",
+        "title": "cillum deserunt",
+        "body": "Deserunt elit dolor duis nulla. Culpa nulla aute aliqua officia culpa pariatur magna tempor eu id consectetur voluptate.",
+        "written": "Fri Sep 11 2020 11:47:05 GMT-0600 (Mountain Daylight Time)",
         "tags": [
-            "overwhelmed",
-            "sad"
-        ],
-        "favoriteFruit": "banana"
+            "conflicted"
+        ]
     },
     {
         "index": 10,
-        "title": "aliqua do",
-        "body": "Commodo ex elit non pariatur excepteur magna occaecat occaecat aute ex mollit Lorem. Magna ullamco ut velit cupidatat et.",
-        "written": "2017-08-16T05:42:26 +06:00",
+        "title": "duis ad",
+        "body": "Sit ullamco irure commodo deserunt exercitation in cupidatat tempor labore anim consectetur. Ad fugiat mollit Lorem aute in mollit do dolore nisi exercitation sunt eu sint.",
+        "written": "Sat Oct 31 2020 07:32:49 GMT-0600 (Mountain Daylight Time)",
         "tags": [
-            "determined",
-            "full"
-        ],
-        "favoriteFruit": "strawberry"
+            "conflicted"
+        ]
     },
     {
         "index": 11,
-        "title": "deserunt proident",
-        "body": "Proident ad proident excepteur ullamco excepteur nostrud ex ipsum laboris. Excepteur do officia eiusmod esse ut reprehenderit ad magna proident nostrud veniam.",
-        "written": "2016-08-27T08:52:10 +06:00",
+        "title": "officia minim",
+        "body": "Lorem duis irure occaecat Lorem esse fugiat quis adipisicing eiusmod nisi mollit. Voluptate ex aliqua esse consequat irure adipisicing non laborum ex enim esse ipsum magna elit.",
+        "written": "Thu Oct 22 2015 20:32:16 GMT-0600 (Mountain Daylight Time)",
         "tags": [
-            "lethargic"
-        ],
-        "favoriteFruit": "strawberry"
+            "anxious",
+            "happy"
+        ]
     },
     {
         "index": 12,
-        "title": "officia do",
-        "body": "Laboris quis est ad eu voluptate labore qui. Dolore fugiat aliqua irure sit ad nulla incididunt est non qui reprehenderit elit elit sint.",
-        "written": "2020-06-06T02:08:18 +06:00",
-        "tags": [
-            "determined",
-            "full"
-        ],
-        "favoriteFruit": "apple"
-    },
-    {
-        "index": 13,
-        "title": "sit pariatur",
-        "body": "Pariatur eiusmod minim velit labore sint tempor excepteur velit sit aute fugiat anim ipsum. Eu laborum occaecat cillum magna deserunt dolore ut veniam.",
-        "written": "2016-10-14T06:46:14 +06:00",
-        "tags": [
-            "empty",
-            "energetic"
-        ],
-        "favoriteFruit": "apple"
-    },
-    {
-        "index": 14,
-        "title": "qui proident",
-        "body": "In laborum dolore voluptate ut officia incididunt. Cillum Lorem officia culpa eu consectetur pariatur occaecat cillum dolore eu eu deserunt.",
-        "written": "2015-08-03T09:04:49 +06:00",
-        "tags": [
-            "happy",
-            "anxious"
-        ],
-        "favoriteFruit": "banana"
-    },
-    {
-        "index": 15,
-        "title": "ex ad",
-        "body": "Laborum nisi velit esse ex occaecat cupidatat laborum. Esse consectetur irure reprehenderit consectetur ex minim esse elit ipsum.",
-        "written": "2018-07-17T06:20:30 +06:00",
-        "tags": [
-            "sad",
-            "energetic"
-        ],
-        "favoriteFruit": "banana"
-    },
-    {
-        "index": 16,
-        "title": "veniam enim",
-        "body": "Aliqua aliqua nulla commodo velit consequat. Laborum deserunt proident cupidatat sunt quis laborum proident.",
-        "written": "2020-04-30T03:07:29 +06:00",
-        "tags": [
-            "empty"
-        ],
-        "favoriteFruit": "apple"
-    },
-    {
-        "index": 17,
-        "title": "aliqua esse",
-        "body": "Nisi sunt voluptate ut nulla proident. Elit labore incididunt nostrud proident sit ipsum aliquip in fugiat ipsum est adipisicing.",
-        "written": "2017-05-15T08:21:18 +06:00",
-        "tags": [
-            "energetic",
-            "full"
-        ],
-        "favoriteFruit": "strawberry"
-    },
-    {
-        "index": 18,
-        "title": "officia tempor",
-        "body": "Nulla quis sunt minim laborum nulla et tempor culpa exercitation enim fugiat sit. Reprehenderit pariatur esse quis eiusmod enim.",
-        "written": "2019-11-08T02:45:52 +07:00",
+        "title": "qui aliquip",
+        "body": "Adipisicing elit mollit laborum et amet deserunt. Duis cillum amet irure nisi qui excepteur eiusmod eiusmod nulla est excepteur incididunt.",
+        "written": "Tue Aug 15 2017 15:01:30 GMT-0600 (Mountain Daylight Time)",
         "tags": [
             "sad",
             "sad"
-        ],
-        "favoriteFruit": "banana"
+        ]
+    },
+    {
+        "index": 13,
+        "title": "ut laborum",
+        "body": "Duis culpa deserunt incididunt velit magna mollit aliqua. Ad ea aute exercitation occaecat.",
+        "written": "Wed May 03 2017 11:33:16 GMT-0600 (Mountain Daylight Time)",
+        "tags": [
+            "overwhelmed",
+            "energetic"
+        ]
+    },
+    {
+        "index": 14,
+        "title": "eiusmod culpa",
+        "body": "Exercitation minim exercitation aute amet irure irure amet amet est irure voluptate irure pariatur. Quis eu laborum dolore nisi elit enim veniam cupidatat amet nisi cupidatat laboris sit.",
+        "written": "Sat Apr 23 2016 00:43:15 GMT-0600 (Mountain Daylight Time)",
+        "tags": [
+            "energetic"
+        ]
+    },
+    {
+        "index": 15,
+        "title": "sunt proident",
+        "body": "Commodo anim aute irure culpa laborum sit incididunt ipsum. Velit enim non consectetur qui duis ipsum ut velit.",
+        "written": "Tue Oct 31 2017 02:59:50 GMT-0600 (Mountain Daylight Time)",
+        "tags": [
+            "anxious",
+            "energetic"
+        ]
+    },
+    {
+        "index": 16,
+        "title": "reprehenderit dolore",
+        "body": "Esse voluptate ex consectetur incididunt incididunt culpa excepteur nisi sit elit tempor. Nisi laboris laboris fugiat quis Lorem sint eu labore cillum.",
+        "written": "Sun Jul 26 2015 14:17:13 GMT-0600 (Mountain Daylight Time)",
+        "tags": [
+            "anxious",
+            "full"
+        ]
+    },
+    {
+        "index": 17,
+        "title": "voluptate ut",
+        "body": "Veniam incididunt do exercitation reprehenderit laborum nostrud excepteur. Ipsum magna eiusmod excepteur amet reprehenderit.",
+        "written": "Sun Dec 27 2015 22:43:02 GMT-0700 (Mountain Standard Time)",
+        "tags": [
+            "conflicted",
+            "empty"
+        ]
+    },
+    {
+        "index": 18,
+        "title": "sint nostrud",
+        "body": "Et consequat magna nisi occaecat dolor sit consectetur ipsum. In officia in est ad duis sunt aliqua.",
+        "written": "Sat Feb 21 2015 05:43:59 GMT-0700 (Mountain Standard Time)",
+        "tags": [
+            "sad"
+        ]
     },
     {
         "index": 19,
-        "title": "officia consequat",
-        "body": "In officia aliquip consectetur proident do. Duis enim culpa in voluptate sunt proident eiusmod laborum elit excepteur laboris nulla reprehenderit.",
-        "written": "2019-01-02T12:06:38 +07:00",
+        "title": "mollit elit",
+        "body": "Culpa minim pariatur adipisicing ad consequat aliquip non. Occaecat reprehenderit eu sunt nostrud adipisicing anim excepteur fugiat ut qui.",
+        "written": "Fri Nov 29 2019 23:31:06 GMT-0700 (Mountain Standard Time)",
         "tags": [
-            "anxious"
-        ],
-        "favoriteFruit": "banana"
+            "overwhelmed",
+            "happy"
+        ]
+    },
+    {
+        "index": 20,
+        "title": "occaecat ipsum",
+        "body": "Aliqua dolor officia eiusmod Lorem dolore sunt occaecat mollit enim duis. Amet aliquip aliquip ea elit velit adipisicing.",
+        "written": "Tue Feb 23 2021 22:59:27 GMT-0700 (Mountain Standard Time)",
+        "tags": [
+            "sad"
+        ]
     }
 ]
 
